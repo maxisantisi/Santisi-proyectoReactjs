@@ -12,6 +12,9 @@ function NavBar () {
                 <li>
                     <button>Nike</button>
                 </li>
+                <li>
+                    <button>Tienda</button>
+                </li>
             </ul>
             <CardWidget />
         </div>
